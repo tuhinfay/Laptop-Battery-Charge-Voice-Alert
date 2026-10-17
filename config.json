@@ -1,0 +1,13 @@
+{
+  "language": "en",
+  "voice": "en-GB-SoniaNeural",
+  "check_normal": 300,
+  "check_alert": 60,
+  "thresholds": {
+    "warn_50": 50,
+    "warn_30": 30,
+    "critical_20": 20,
+    "warn_80": 80,
+    "max_95": 95
+  }
+}
