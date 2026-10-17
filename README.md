@@ -176,7 +176,7 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for more informa
 
 <div align="center">
 
-Developed with ❤️ by [Tuhin](https://github.com/tuhinfay)
+Developed with ❤️ by [Tuhinfay](https://github.com/tuhinfay)
 
 ⭐ **If this project saves your laptop battery, please give it a Star on GitHub!** ⭐
 
